@@ -1,20 +1,9 @@
-/****************************************************************************************************
-*   Stanford Theming File
-*
-*   Contains all the theme color definitions for the Stanford Open Source MOOC Project
-*
-****************************************************************************************************/
-
-//-----------------
-//  Color variables (from Stanford palette unless noted)
-//-----------------
-
 //Main Color Variables
 $main-color: #f7691f;
 // $dark-color: #ea281f; //Link Color
 $dark-color: #ea178a; //Link Color
-$light-color: #f4e00c; //Selected Header BG Color, ie. calendar        ***Custom, not from palette***
-$bg-color: #f7fe81; //Selected Content BG Color, ie. calendar          ***Custom, not from palette***
+$light-color: #f4e00c; //Selected Header BG Color, ie. calendar
+$bg-color: #f7fe81; //Selected Content BG Color, ie. calendar
 
 //Main BG Color Variables
 // $main-bg: #822537;
@@ -145,8 +134,6 @@ $action-secondary-active-focused-shadow: none;
 // disabled
 $action-secondary-disabled-bg: $gray-3;
 $action-secondary-disabled-fg: $gray;
-
-//
 
 $border-color-1: $main-bg-60;
 $border-color-2: $main-bg-60;
